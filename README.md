@@ -1,3 +1,3 @@
 # Praktikum.projects
-Projects
-Study projects I made for Yandex Praktikum Data Analysis course - Jupyter notebooks showing the analysis proccess from start to end.
+Projects.
+Here are the projects I completed for the Yandex Praktikum Data Analysis course. These Jupyter notebooks document the entire analysis process, from initiation to completion.
